@@ -37,9 +37,9 @@ body {
 }
 
 .hero-block {
-	max-width: 50%;
-	flex: auto;
 	flex-direction: column;
+	max-width: 50%;
+	padding: 0px 75px 0px 0px;
 }
 
 .hero-title {
